@@ -27,8 +27,9 @@ BASE_PATH : http://aljenci.com/blog
 
 # Build settings
 markdown: kramdown
+theme: minima
 #theme: jekyll-theme-minimal
-remote_theme: daattali/beautiful-jekyll
+#remote_theme: pages-themes/minimal
 plugins:
   - jekyll-feed
 
